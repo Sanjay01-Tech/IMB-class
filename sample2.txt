@@ -12,8 +12,8 @@ git status             (to check the status)
 dir                    (to check if the file came the local folder)
 type sample2.txt       (to see what's written inside this file)
 notepad sample2.txt    (to open this file in the notepad and edit)
-git add
-git status            
-git commit m-"commit message"
-
+git add sample2.txt      (adding to the Git repository)
+git status               (checking the status of the file)
+git commit -m "commit message"  (commit message is the next step and it is must"    
+git pussh              (to push the file to Git repository)
 
