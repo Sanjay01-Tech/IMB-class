@@ -1,1 +1,19 @@
-I am creating this file to use as sample in the directory cmd
+I am creating this file to use as sample in the directory cmd, 
+
+Success i opened this file in cmd
+
+How- 
+open cmd
+cd documents           (change directory to where the git folder exists)
+cd IMB-class           (folder name)
+dir                    (to check what are the files inside this folder)
+git pull               (adding pulling from the Git to this local folder)
+git status             (to check the status)
+dir                    (to check if the file came the local folder)
+type sample2.txt       (to see what's written inside this file)
+notepad sample2.txt    (to open this file in the notepad and edit)
+git add
+git status            
+git commit m-"commit message"
+
+
